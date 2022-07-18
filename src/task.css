@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(47, 47, 47);
+}
+
+.logo-text {
+    background-color: rgb(71, 71, 71);
+}
+
+.heading {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(85, 184, 255);
+}
+
+.navbar {
+    margin-bottom: 25px;
+    padding: 25px;
+    background-color: rgb(71, 71, 71);
+}
+
+.hero {
+    align-items: center;
+    background-color: rgb(65, 65, 65);
+}
